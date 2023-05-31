@@ -3,3 +3,4 @@ The idea is simple: every time I feel the urge to procrastinate, I have to learn
 
 # So far:
 * Bellman-Ford algorithm
+* Levenshtein Edit Distance
