@@ -5,3 +5,4 @@ The idea is simple: every time I feel the urge to procrastinate, I have to learn
 * Bellman-Ford algorithm
 * Levenshtein Edit Distance
 * Floyd's cycle finding algorithm
+* Floyd-Warshall algorithm
