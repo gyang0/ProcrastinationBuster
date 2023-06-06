@@ -6,3 +6,4 @@ The idea is simple: every time I feel the urge to procrastinate, I have to learn
 * Levenshtein Edit Distance
 * Floyd's cycle finding algorithm
 * Floyd-Warshall algorithm
+* Dijkstra's algorithm
