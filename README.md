@@ -7,3 +7,4 @@ The idea is simple: every time I feel the urge to procrastinate, I have to learn
 * Floyd's cycle finding algorithm
 * Floyd-Warshall algorithm
 * Dijkstra's algorithm
+* Kruskal's algorithm
